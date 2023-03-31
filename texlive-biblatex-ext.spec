@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-ext
 Version:	63638
-Release:	1
+Release:	2
 Summary:	Extended BibLaTeX standard styles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-ext
