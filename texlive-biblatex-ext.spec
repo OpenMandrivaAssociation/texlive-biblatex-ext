@@ -1,5 +1,5 @@
 Name:		texlive-biblatex-ext
-Version:	66641
+Version:	70744
 Release:	1
 Summary:	Extended BibLaTeX standard styles
 Group:		Publishing
